@@ -1,4 +1,6 @@
 -- Parcial 1 / Práctico 3
+CREATE DATABASE DataBaseTicket;
+USE DataBaseTicket;
 
 CREATE TABLE Roles (
     id INT PRIMARY KEY,
